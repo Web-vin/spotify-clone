@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spotify-clone/static/css/main.823fc2dc.css",
+    "main.js": "/spotify-clone/static/js/main.7b9db96e.js",
+    "static/js/488.c22d3723.chunk.js": "/spotify-clone/static/js/488.c22d3723.chunk.js",
+    "static/media/Arijitsingh.png": "/spotify-clone/static/media/Arijitsingh.027040d31bdc5dd24acb.png",
+    "static/media/ashiqui2.webp": "/spotify-clone/static/media/ashiqui2.3de483dd724f9fee0822.webp",
+    "static/media/Artist2.jpg": "/spotify-clone/static/media/Artist2.65815907adb6c7f52d19.jpg",
+    "static/media/A R rahman].jpg": "/spotify-clone/static/media/A R rahman].74198e45ee39a0cadff9.jpg",
+    "static/media/sachin-jigar.webp": "/spotify-clone/static/media/sachin-jigar.b8aa1923e0ad95b1cd01.webp",
+    "static/media/yjhd.jpg": "/spotify-clone/static/media/yjhd.ce1ed7f000036cb93466.jpg",
+    "static/media/animal.jpg": "/spotify-clone/static/media/animal.5a7a97a334b5a98a63ea.jpg",
+    "static/media/atifaslam.webp": "/spotify-clone/static/media/atifaslam.5f1c5499cd900b63f38f.webp",
+    "index.html": "/spotify-clone/index.html",
+    "main.823fc2dc.css.map": "/spotify-clone/static/css/main.823fc2dc.css.map",
+    "main.7b9db96e.js.map": "/spotify-clone/static/js/main.7b9db96e.js.map",
+    "488.c22d3723.chunk.js.map": "/spotify-clone/static/js/488.c22d3723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.823fc2dc.css",
+    "static/js/main.7b9db96e.js"
+  ]
+}
